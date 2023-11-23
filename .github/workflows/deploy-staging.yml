@@ -8,6 +8,7 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
   ### Replace <username> with GitHub username ###
+  # added because I replaced the tags too early in a previous step...
   ###############################################
   DOCKER_IMAGE_NAME: Shihabb-azure-ttt
   AZURE_WEBAPP_NAME: Shihabb-ttt-app
